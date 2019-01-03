@@ -1,3 +1,5 @@
+package TDA.TablaHash;
+
 public class Producto {
     
     String codigo;
